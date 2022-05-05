@@ -1,0 +1,27 @@
+Algoritmo "TipoDados"
+
+// Descrição  : Algoritmo com valores de diferentes Tipos de Dados
+
+// Autor(a)  : Marcos Alexandre Lopes
+
+// Data atual : 4/23/2022
+
+
+
+Var
+
+
+
+Inicio
+
+   escreval("Nome é um dado do tipo caractere: ", "Marcos Lopes")
+
+   escreval("Idade é um dado do tipo inteiro: ", 25)
+
+   escreval("Altura é um dado do tipo real: ", 1.80)
+
+   escreval("Criança é um dado do tipo lógico: ", falso)
+
+
+
+Fimalgoritmo
