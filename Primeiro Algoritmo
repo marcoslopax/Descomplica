@@ -1,0 +1,32 @@
+//PORTUGOL : VISUALG
+
+Algoritmo "AP1"
+
+// Disciplina  : Criação de Aplicações e Sistemas
+
+// Professor  : Franklin Portela
+
+// Descrição  : Mostrar informação na tela
+
+// Autor(a)  : Marcos Alexandre Lopes FIlho
+
+// Data atual : 4/20/2022
+
+Var
+
+// Seção de Declarações das variáveis 
+
+
+
+
+
+Inicio
+
+// Seção de Comandos, procedimento, funções, operadores, etc... 
+
+ Escreval ("Atividade Concluída")
+
+
+
+Fimalgoritmo
+
